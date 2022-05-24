@@ -1,5 +1,7 @@
 # mUBQP算法
 
+<iframe height=498 width=510 src="./MOEAD演示.mp4">
+
 ## 环境搭建(必须)
 
 ### Centos 7.6安装python3、更新pip、安装依赖包
